@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Hamza Shaieb and I specialize in full-stack web development. I have a strong affinity for JavaScript and its associated libraries. Through self-teaching, I have developed a deep understanding of web development and continue to refine my skills and knowledge in the field.
+My name is Hamza Shaieb and I specialize in full-stack web development. I have a strong affinity for JavaScript and its associated libraries. Through self-teaching, I have developed a deep understanding of web development and continue to refine my skills and knowledge in the field.
 
 - 🔭 I’m Fullstack Wep Develeopper ...
 - 🌱 I’m currently learning 
