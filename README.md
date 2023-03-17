@@ -1,18 +1,15 @@
-### Hi there 👋
+### Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Hamza, a full-stack web developer with 1 years of experience building web applications using a range of technologies and frameworks.
+Hello there! My name is Hamza Shaieb, and I am a full-stack web developer from Tunisia. I am thrilled to have you here on my GitHub profile, where you can find a collection of my projects and contributions.
 
-I have a strong passion for solving complex problems and creating elegant, scalable solutions that provide a great user experience. My technical skills include proficiency in both front-end and back-end development, with expertise in a variety of languages, including JavaScript, HTML, CSS, Node.js, and SQL.
+My primary passion is programming, and I find working with JavaScript to be incredibly enjoyable, particularly when building projects using frameworks based on this language. I always strive to develop clean, efficient, and scalable code that is both maintainable and user-friendly.
 
-As a full-stack developer, I am able to work on all aspects of a project, from the initial concept and planning stages to development, testing, and deployment. I have experience working with a range of databases, including MySQL, MongoDB, and PostgreSQL, and am comfortable working with APIs and integrating third-party services.
+Feel free to browse through my repositories and explore the projects I have worked on. If you have any questions or comments, please don't hesitate to get in touch with me. Thank you for taking the time to visit my profile, and I look forward to connecting with you!
 
-In addition to my technical skills, I have excellent communication skills and am able to work effectively both independently and as part of a team. I am always looking for new challenges and opportunities to learn and grow as a developer.
 
-Feel free to check out my GitHub profile to see some of my recent projects, or get in touch if you'd like to discuss a potential collaboration or job opportunity. Thanks for stopping by!
-
-- 🔭 I’m Fullstack Wep Develeopper Mern Stack
+- 🔭 I’m Fullstack Wep Develeopper Mern Stack(React Js ,Node Js, Mysql,mongodb)
 - 🌱 I’m currently learning Next Js Typescript
 - 👯 I’m looking to collaborate on Creting A challengigs Projects
-- 💬 Ask me about JAVASCRIPT HTML CSS BOOTSTRAP REACT JS NODE JS  
-- 📫 How to reach me: ...
+- 💬 Ask me about Javascript Html css Bootstrap React js Node js  
+- 📫 How to reach me: 
 
