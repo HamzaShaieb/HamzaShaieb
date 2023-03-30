@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile! 👋
 
-Hi! I'm Hamza Shaieb, a full-stack web developer from Tunisia. Check out my GitHub profile for my projects and contributions. I love programming with JavaScript and building projects with its frameworks. I aim to create clean, efficient, and scalable code that's user-friendly. Feel free to browse my repositories and reach out to me with any questions or comments. Thank you for visiting my profile, and I look forward to connecting with you!
+Hi! I'm Hamza Shaieb, a full-stack web developer from Tunisia. I love programming with JavaScript and building projects with its frameworks. I aim to create clean, efficient, and scalable code that's user-friendly. Thank you for visiting my profile, and I look forward to connecting with you!
 
 
 
