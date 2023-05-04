@@ -4,10 +4,10 @@ Hi! I'm Hamza Shaieb, a full-stack web developer from Tunisia. I love programmin
 
 
 
-- 🔭 I’m Fullstack Wep Develeopper Mern Stack(React Js ,Node Js, Mysql,mongodb)
+- 👨🏻‍💻 I’m currently working on developing my skills ;
 - 🌱 I’m currently learning Next Js Typescript
 - 👯 I’m looking to collaborate on Creting A challengigs Projects
-- 💬 Ask me about Javascript Html css Bootstrap React js Node js  
+- 💬 Feel free to ask anything, I'm glad to help you any time.  
 - 📫 How to reach me: 
 
 💪 **My  Skills:**
