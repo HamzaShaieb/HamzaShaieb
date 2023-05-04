@@ -14,4 +14,4 @@ linkedin
 ## My  GitHub Stats
 
 <!-- Add your GitHub stats generated from a tool like https://github.com/anuraghazra/github-readme-stats -->
-[![Your Github Stats](https://github-readme-stats.vercel.app/api?username=your_username_here&show_icons=true&theme=your_color_scheme_here)](https://github.com/your_username_here)
+[![Your Github Stats](https://github-readme-stats.vercel.app/api?username=your_username_here&show_icons=true&theme=blue)](https://github.com/your_username_here)
