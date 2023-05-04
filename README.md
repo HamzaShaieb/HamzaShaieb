@@ -12,6 +12,7 @@ Hi! I'm Hamza Shaieb, a full-stack web developer from Tunisia. I love programmin
 linkedin
 
 ## My  GitHub Stats
-
-<!-- Add your GitHub stats generated from a tool like https://github.com/anuraghazra/github-readme-stats -->
-[![Your Github Stats](https://github-readme-stats.vercel.app/api?username=your_username_here&show_icons=true&theme=blue)](https://github.com/your_username_here)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blake-K-Yeboah&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=blue-green" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blake-K-Yeboah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=blue-green"/>
+</p>
