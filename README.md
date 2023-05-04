@@ -14,7 +14,7 @@ Hi! I'm Hamza Shaieb, a full-stack web developer from Tunisia. I love programmin
 - 📫 How to reach me:hamzashaiebdev@gmail.com
 - 💌 How to connect me :
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blake-yeboah/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaieb-software-developper/)
 
 💪 **My  Skills:**
 
