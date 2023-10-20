@@ -6,7 +6,7 @@
  
  <img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
 
-**Talking about Personal Stuffs:**
+**📙Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on developing my skills ;
 - 🌱 I’m currently learning Next Js Typescript
