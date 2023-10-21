@@ -4,7 +4,7 @@
 A full-stack web developer from Tunisia. I love programming with JavaScript and building projects with its frameworks. I aim to create clean,     efficient, and scalable code that's user-friendly. Thank you for visiting my profile, and I look forward to connecting with you!
  
  
- #<img align="right" alt="GIF" src="./coding.gif?raw=true" width="325" height="200" />
+
 
 **📙Talking about Personal Stuffs:**
 
