@@ -1,5 +1,5 @@
 
- # Hi there, I'm <a href="https://hamsazashaiebp1.netlify.app/" target="_blank">Hamza Shaieb</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ # Hi there, I'm <a href="https://https://hamzashaieb.netlify.app//" target="_blank">Hamza Shaieb</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 A full-stack web developer from Tunisia. I love programming with JavaScript and building projects with its frameworks. I aim to create clean,     efficient, and scalable code that's user-friendly. Thank you for visiting my profile, and I look forward to connecting with you!
  
@@ -13,6 +13,7 @@ A full-stack web developer from Tunisia. I love programming with JavaScript and 
 - 👯 I’m looking to collaborate on Creting A challengigs Projects
 - 💬 Feel free to ask anything, I'm glad to help you any time.  
 - 📫 How to reach me:hamzashaiebdev@gmail.com
+- 📝 [Resume](https://www.blakeyeboah.com/assets/Blake_Yeboah_Resume.pdf).
 - 💌 How to connect me :
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaieb-software-developper/)
