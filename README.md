@@ -13,7 +13,7 @@ A full-stack web developer from Tunisia. I love programming with JavaScript and 
 - 👯 I’m looking to collaborate on Creting A challengigs Projects
 - 💬 Feel free to ask anything, I'm glad to help you any time.  
 - 📫 How to reach me:hamzashaiebdev@gmail.com
-- 📝 [Resume](https://www.blakeyeboah.com/assets/Blake_Yeboah_Resume.pdf).
+- 📝 [Resume](HamzaShaieb_Resume_Full_Stack_Developper (6).pdf).
 - 💌 How to connect me :
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-shaieb-software-developper/)
